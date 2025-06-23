@@ -1,0 +1,236 @@
+﻿job_title,location,income,skill,データベース,AWS,機械学習,Webフレームワーク,データ分析,min_income,max_income,avg_income
+Pythonエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 茨城県, 栃木県, 群馬県, 石川県, 滋賀県, 奈良県, 和歌山県, 福岡県",504万円〜1080万円,"SQL, Python, Django, AWS, PostgreSQL",1,1,0,1,0,504.0,1080.0,792.0
+Pythonエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 青森県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, 滋賀県, 奈良県, 和歌山県, 鳥取県, 島根県, 岡山県, 広島県, 山口県, 徳島県, 香川県, 愛媛県, 高知県, 福岡県, 佐賀県, 長崎県, 熊本県, 大分県, 宮崎県, 鹿児島県, 沖縄県, フルリモート",530万円〜1000万円,"JavaScript, SQL, PHP, Ruby, Java, Python, Swift, Ruby on Rails, Django, React, TypeScript, iOS, Android, AWS, Docker, MySQL, Laravel, Golang, Vue.js, TensorFlow, PostgreSQL, Kotlin, Azure, Lambda, Kubernetes, Firebase, Jenkins, Elasticsearch, MongoDB, Spring, pandas, GCP, Matplotlib, Redis, scikit-learn, Flask",1,1,1,1,1,530.0,1000.0,765.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",400万円〜1100万円,"C#, C, C++, Objective-C, JavaScript, VBA, PHP, Ruby, Java, Python, Swift, Go, Django, Unity, React, TypeScript, AWS, Docker, MySQL, Laravel, Vue.js, PostgreSQL, Kotlin, Apache, Azure, Kubernetes, Oracle, Spring, Rust, GCP, React Native, Xamarin, Cordova, Flutter",1,1,0,1,0,400.0,1100.0,750.0
+データエンジニア,東京都,400万円〜600万円,"SQL, Python",1,0,0,0,0,400.0,600.0,500.0
+Pythonエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 愛知県, 福岡県",350万円〜700万円,"JavaScript, PHP, Ruby, Java, Python, Go, CakePHP, Django, React, TypeScript, AWS, Docker, MySQL, Vue.js, SQLServer",1,1,0,1,0,350.0,700.0,525.0
+Webエンジニア,愛知県,400万円〜700万円,"C#, JavaScript, Java, Python, Swift, Django, React, TypeScript, AWS, Vue.js, PostgreSQL, Kotlin, Azure, Lambda, SQLServer, Flutter",1,1,0,1,0,400.0,700.0,550.0
+バックエンドエンジニア,東京都,550万円〜800万円,"Ruby, Python, Ruby on Rails, React, TypeScript, AWS, MySQL, Vue.js, Lambda, Angular, Fargate",1,1,0,0,0,550.0,800.0,675.0
+開発エンジニア,東京都,400万円〜800万円,"C#, JavaScript, ASP, ASP.NET, PHP, Ruby, Java, Python, Swift, Scala, Go, Struts, Ruby on Rails, Django, jQuery, Node.js, React, TypeScript, AWS, MySQL, Laravel, Golang, Vue.js, Kotlin, Apache, IoT, Azure, Kubernetes, MongoDB, Spring, Angular, GCP, React Native, Express, Flask, Flutter",1,1,0,1,0,400.0,800.0,600.0
+Pythonエンジニア,東京都,350万円〜700万円,"Python, Docker",0,0,0,0,0,350.0,700.0,525.0
+フルスタックエンジニア,フルリモート,420万円〜900万円,"JavaScript, PHP, Java, Python, Go, Node.js, React, TypeScript, AWS, Vue.js, Nuxt.js",0,1,0,0,0,420.0,900.0,660.0
+開発エンジニア,東京都,370万円〜500万円,"C#, PHP, Ruby, Java, Python, Node.js, React, AWS, MySQL, Vue.js, PostgreSQL, Lambda, Elasticsearch, Oracle, NodeJS",1,1,0,0,0,370.0,500.0,435.0
+Pythonエンジニア,"東京都, 神奈川県, 大阪府, 北海道, 福岡県",450万円〜1260万円,"JavaScript, SQL, Python, Django, AWS, Docker",1,1,0,1,0,450.0,1260.0,855.0
+サーバーエンジニア,東京都,400万円〜800万円,"JavaScript, PHP, Ruby, Java, Python, Scala, Ruby on Rails, AWS, Docker, MySQL, Laravel, PostgreSQL, Lambda, Rust, Redis",1,1,0,0,0,400.0,800.0,600.0
+クラウドエンジニア,東京都,400万円〜650万円,"JavaScript, SQL, Python, Django, React, TypeScript, AWS, MySQL, TensorFlow, OpenCV, Keras, GCP, Flask, VR",1,1,1,1,0,400.0,650.0,525.0
+Pythonエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 茨城県, 栃木県, 群馬県, フルリモート",500万円〜800万円,"PHP, Python, Django, React, AWS, Docker, Laravel, Vue.js",0,1,0,1,0,500.0,800.0,650.0
+バックエンドエンジニア,東京都,400万円〜600万円,"C, SQL, PHP, Java, Python, Go, Django, TypeScript, AWS, Lambda, GCP, Flask, SRE",1,1,0,1,0,400.0,600.0,500.0
+Pythonエンジニア,東京都,300万円〜800万円,"JavaScript, SQL, PHP, Ruby, Java, Python, CakePHP, Ruby on Rails, Django, iOS, Android, AWS, Docker, MySQL, Laravel, Vue.js, Nginx, PostgreSQL, Azure, Kubernetes, Oracle, SQLServer, Nuxt.js, Flutter, Splunk",1,1,0,1,0,300.0,800.0,550.0
+開発エンジニア,東京都,600万円〜800万円,Python,0,0,0,0,0,600.0,800.0,700.0
+Webエンジニア,東京都,450万円〜750万円,"C#, JavaScript, SQL, Perl, PHP, Ruby, Java, Python, AWS, MySQL, PostgreSQL, Azure, Oracle",1,1,0,0,0,450.0,750.0,600.0
+開発エンジニア,東京都,430万円〜700万円,"Java, Python, Go, AWS, Azure, Lambda, GCP, Fargate",0,1,0,0,0,430.0,700.0,565.0
+Webエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 福岡県, フルリモート",500万円〜1000万円,"C#, PHP, Ruby, Java, Python, Swift, Go, TypeScript, AWS, Kotlin, Azure, GCP, Salesforce, Juniper, SAP",0,1,0,0,0,500.0,1000.0,750.0
+その他エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",500万円〜750万円,"Java, Python, SAP",0,0,0,0,0,500.0,750.0,625.0
+バックエンドエンジニア,東京都,500万円〜800万円,"JavaScript, Python, Go, Node.js, React, TypeScript, AWS, MySQL, Laravel, MongoDB, Redux, React Native, ES6",1,1,0,0,0,500.0,800.0,650.0
+その他エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 岐阜県, 滋賀県, 奈良県, 福岡県, フルリモート",400万円〜1000万円,"C#, C, C++, JavaScript, ASP, ASP.NET, PHP, Ruby, Java, COBOL, Python, Swift, Go, Dart, Struts, Symfony, CakePHP, Ruby on Rails, Django, Node.js, React, TypeScript, AWS, Laravel, Vue.js, Kotlin, Azure, Spring, Rust, GCP, Salesforce, Nuxt.js, Flutter, Juniper, SAP",0,1,0,1,0,400.0,1000.0,700.0
+フルスタックエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",700万円〜1100万円,"Python, React, AWS, Docker, Golang, Vue.js, TensorFlow, PostgreSQL, Azure, GCP",1,1,1,0,0,700.0,1100.0,900.0
+クラウドエンジニア,"東京都, 埼玉県",550万円〜700万円,"Python, Go, TypeScript, AWS, Docker, SAP",0,1,0,0,0,550.0,700.0,625.0
+AIエンジニア,東京都,700万円〜1000万円,"JavaScript, Ruby, Python, Ruby on Rails, TypeScript, AWS, MySQL",1,1,0,0,0,700.0,1000.0,850.0
+その他エンジニア,東京都,400万円〜800万円,"PHP, Java, Python, FuelPHP, AWS, Docker, MySQL, Laravel, Firebase, Flask",1,1,0,1,0,400.0,800.0,600.0
+開発エンジニア,"東京都, 大阪府, 愛知県, 福岡県",350万円〜700万円,"JavaScript, Java, Python, Go, Node.js, React, TypeScript, AWS, Vue.js, Azure, GCP",0,1,0,0,0,350.0,700.0,525.0
+PM,東京都,550万円〜700万円,"PHP, Ruby, Python, TypeScript, AWS, GCP",0,1,0,0,0,550.0,700.0,625.0
+Webエンジニア,東京都,350万円〜550万円,"JavaScript, SQL, PHP, Ruby, Java, Python, Ruby on Rails, Django, React, TypeScript, AWS, Docker, MySQL, Laravel, Vue.js, Nginx, PostgreSQL, Kubernetes, Oracle, SQLServer, Nuxt.js, Splunk",1,1,0,1,0,350.0,550.0,450.0
+PM,"東京都, 神奈川県, 千葉県, 埼玉県, フルリモート",500万円〜750万円,"C#, JavaScript, SQL, Java, Python, Swift, TypeScript, AWS, Laravel, Vue.js, PostgreSQL, Kotlin, Azure, Spring, GCP",1,1,0,0,0,500.0,750.0,625.0
+サーバーエンジニア,"大阪府, 兵庫県, 愛知県, 福岡県",400万円〜700万円,"PHP, Python, AWS, Oracle",0,1,0,0,0,400.0,700.0,550.0
+Webエンジニア,東京都,400万円〜965万円,"C#, C, C++, JavaScript, SQL, PHP, Ruby, Java, Python, Swift, React, TypeScript, iOS, Android, AWS, Docker, MySQL, Vue.js, PostgreSQL, Kotlin, Azure, Jenkins, Oracle, GCP",1,1,0,0,0,400.0,965.0,682.5
+その他エンジニア,"東京都, 神奈川県, 大阪府, 愛知県, 栃木県, 群馬県",500万円〜1100万円,"C#, C, C++, Java, Python",0,0,0,0,0,500.0,1100.0,800.0
+SRE,東京都,450万円〜700万円,"JavaScript, PHP, Ruby, Python, React, TypeScript, AWS, Docker, MySQL, Laravel, Vue.js, Lambda, Jenkins, GCP, Redis, SRE",1,1,0,0,0,450.0,700.0,575.0
+その他エンジニア,"東京都, フルリモート",340万円〜700万円,"Ruby, Python, Go, Docker, Zabbix",0,0,0,0,0,340.0,700.0,520.0
+フロントエンドエンジニア,東京都,400万円〜600万円,"Objective-C, JavaScript, PHP, Java, Python, Swift, Dart, Symfony, Node.js, React, AngularJS, TypeScript, iOS, Android, AWS, Docker, MySQL, Laravel, Vue.js, HTML5, PostgreSQL, Kotlin, IoT, Azure, Kubernetes, Firebase, Elasticsearch, MongoDB, Angular, React Native, Redis, Express, Cordova, Flutter",1,1,0,0,0,400.0,600.0,500.0
+その他エンジニア,東京都,510万円〜560万円,"C#, C, JavaScript, SQL, PHP, Ruby, Java, Python, Swift, R, React, AWS, MySQL, Laravel, PostgreSQL, MariaDB, Flutter, Juniper",1,1,0,0,0,510.0,560.0,535.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",400万円〜720万円,"C#, C, C++, JavaScript, PHP, Ruby, Java, Python, Swift, Scala, Go, jQuery, React, TypeScript, AWS, Laravel, Vue.js, Kotlin, Azure, Angular, GCP",0,1,0,0,0,400.0,720.0,560.0
+その他エンジニア,フルリモート,420万円〜540万円,"SQL, Python, AWS, MySQL, PostgreSQL, Azure, PowerShell, GCP, Salesforce",1,1,0,0,1,420.0,540.0,480.0
+バックエンドエンジニア,東京都,300万円〜420万円,"JavaScript, Java, Python, jQuery, TypeScript, AWS, Docker, MySQL, Vue.js, PostgreSQL, Kotlin, Kubernetes, Elasticsearch, Nuxt.js",1,1,0,0,0,300.0,420.0,360.0
+AIエンジニア,東京都,450万円〜650万円,"Python, React, TypeScript, Azure, pandas, Flask",0,0,0,1,1,450.0,650.0,550.0
+Pythonエンジニア,東京都,500万円〜800万円,"Python, Node.js, React, TypeScript, iOS, Android, AWS, Azure, GCP, Redux, Flutter",0,1,0,0,0,500.0,800.0,650.0
+バックエンドエンジニア,東京都,400万円〜580万円,"C#, C, C++, ASP, Perl, PHP, Ruby, Java, COBOL, Python, AWS, Azure, GCP",0,1,0,0,0,400.0,580.0,490.0
+データエンジニア,東京都,250万円〜400万円,"SQL, Python, AWS, Azure, GCP",1,1,0,0,0,250.0,400.0,325.0
+PM,東京都,600万円〜900万円,"Python, React, TypeScript, Docker, PostgreSQL, Azure",1,0,0,0,0,600.0,900.0,750.0
+バックエンドエンジニア,東京都,600万円〜1000万円,"PHP, Ruby, Java, Python, Go, Ruby on Rails, Node.js, React, TypeScript, AWS, Docker, PostgreSQL, GCP, Electron, Redis, Express",1,1,0,0,0,600.0,1000.0,800.0
+AIエンジニア,東京都,600万円〜900万円,"Python, Docker",0,0,0,0,0,600.0,900.0,750.0
+その他エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",350万円〜600万円,"C#, JavaScript, PHP, Java, Python, React, Vue.js",0,0,0,0,0,350.0,600.0,475.0
+データエンジニア,"東京都, フルリモート",700万円〜1100万円,"SQL, Ruby, Python, Ruby on Rails, AWS, Docker, MySQL, Vue.js, Lambda, Fargate",1,1,0,0,0,700.0,1100.0,900.0
+AIエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",600万円〜800万円,"Python, AWS",0,1,0,0,0,600.0,800.0,700.0
+その他エンジニア,"東京都, フルリモート",600万円〜1500万円,"SQL, Python, AWS, Lambda, GCP",1,1,0,0,0,600.0,1500.0,1050.0
+その他エンジニア,東京都,600万円〜1200万円,"C#, C, C++, JavaScript, VBA, SQL, PHP, Ruby, Java, COBOL, Python, Go, Unity, React, TypeScript, AWS, Azure, SAP",1,1,0,0,0,600.0,1200.0,900.0
+バックエンドエンジニア,東京都,450万円〜800万円,"PHP, Ruby, Java, Python, Node.js, React, TypeScript, AWS, Docker, MySQL, Laravel, Vue.js, IoT, Spring, GCP, Flask",1,1,0,1,0,450.0,800.0,625.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 青森県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, 滋賀県, 奈良県, 和歌山県, 鳥取県, 島根県, 岡山県, 広島県, 山口県, 徳島県, 香川県, 愛媛県, 高知県, 福岡県, 佐賀県, 長崎県, 熊本県, 大分県, 宮崎県, 鹿児島県, 沖縄県, フルリモート",600万円〜1000万円,"SQL, Python",1,0,0,0,0,600.0,1000.0,800.0
+開発エンジニア,東京都,600万円〜800万円,"SQL, Java, Python, Node.js, AWS, Salesforce",1,1,0,0,0,600.0,800.0,700.0
+セキュリティエンジニア,東京都,500万円〜700万円,"C, Python",0,0,0,0,0,500.0,700.0,600.0
+Webエンジニア,"宮城県, 福岡県",360万円〜600万円,"SQL, PHP, Ruby, Python, Go, Node.js, React, AWS, Vue.js, GCP, Nuxt.js",1,1,0,0,0,360.0,600.0,480.0
+システムエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",450万円〜800万円,"C#, JavaScript, Java, Python, Symfony, CakePHP, AWS, MySQL, Laravel, WordPress, Vue.js, Nginx, Apache",1,1,0,0,0,450.0,800.0,625.0
+その他エンジニア,京都府,260万円〜,"PHP, Java, Python, React, AWS",0,1,0,0,0,,,
+AIエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 青森県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, 滋賀県, 奈良県, 和歌山県, 鳥取県, 島根県, 岡山県, 広島県, 山口県, 徳島県, 香川県, 愛媛県, 高知県, 福岡県, 佐賀県, 長崎県, 熊本県, 大分県, 宮崎県, 鹿児島県, 沖縄県, フルリモート, 海外",600万円〜1000万円,"Python, React, AWS, IoT, Azure, GCP, Flutter",0,1,0,0,0,600.0,1000.0,800.0
+AIエンジニア,"東京都, フルリモート",600万円〜800万円,"Python, React, TypeScript, AWS, Docker, Lambda",0,1,0,0,0,600.0,800.0,700.0
+開発エンジニア,神奈川県,550万円〜,"JavaScript, VBA, Java, Python, AWS, MySQL, GCP",1,1,0,0,0,,,
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 岐阜県",476万円〜691万円,"C#, C, Objective-C, JavaScript, Java, Python, Node.js, Android",0,0,0,0,0,476.0,691.0,583.5
+サーバーエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, フルリモート",600万円〜1200万円,"C#, C, JavaScript, SQL, Java, Python, Swift, React, TypeScript, iOS, AWS, MySQL, Kotlin, Azure, Spring, GCP, Redux, Flutter, SAP",1,1,0,0,0,600.0,1200.0,900.0
+その他エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 青森県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, 滋賀県, 奈良県, 和歌山県, 鳥取県, 島根県, 岡山県, 広島県, 山口県, 徳島県, 香川県, 愛媛県, 高知県, 福岡県, 佐賀県, 長崎県, 熊本県, 大分県, 宮崎県, 鹿児島県, 沖縄県, フルリモート",530万円〜1000万円,"JavaScript, SQL, PHP, Ruby, Java, Python, Swift, Ruby on Rails, React, TypeScript, iOS, Android, AWS, Docker, MySQL, Laravel, Golang, Vue.js, PostgreSQL, Kotlin, Azure, Kubernetes, Jenkins, Elasticsearch, Oracle, MongoDB, Spring, GCP",1,1,0,0,0,530.0,1000.0,765.0
+Webエンジニア,"東京都, 神奈川県, 大阪府, 兵庫県, 京都府, 愛知県, 福岡県",450万円〜750万円,"C#, JavaScript, Java, Python, React, TypeScript, AWS, Docker, IoT, Azure, Kubernetes, Firebase, Spring, React Native, Flutter",0,1,0,0,0,450.0,750.0,600.0
+バックエンドエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 青森県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, 滋賀県, 奈良県, 和歌山県, 鳥取県, 島根県, 岡山県, 広島県, 山口県, 徳島県, 香川県, 愛媛県, 高知県, 福岡県, 佐賀県, 熊本県, 大分県, 宮崎県, 鹿児島県, 沖縄県, フルリモート",500万円〜800万円,"PHP, Ruby, Java, Python, Go, AWS, Docker, MySQL, Kotlin, Spring, GCP",1,1,0,0,0,500.0,800.0,650.0
+バックエンドエンジニア,東京都,500万円〜800万円,"SQL, Python, Go, Dart, React, TypeScript, Docker, Firebase, GCP, Flutter",1,0,0,0,0,500.0,800.0,650.0
+開発エンジニア,"東京都, 神奈川県",450万円〜600万円,"C#, C, C++, JavaScript, VBA, PHP, Ruby, Java, Python, AWS, Azure",0,1,0,0,0,450.0,600.0,525.0
+フロントエンドエンジニア,東京都,480万円〜720万円,"JavaScript, Python, Go, jQuery, React, AWS, Vue.js, Angular, GCP",0,1,0,0,0,480.0,720.0,600.0
+バックエンドエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 青森県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, 滋賀県, 奈良県, 和歌山県, 鳥取県, 島根県, 岡山県, 広島県, 山口県, 徳島県, 香川県, 愛媛県, 高知県, 福岡県, 佐賀県, 長崎県, 熊本県, 大分県, 宮崎県, 鹿児島県, 沖縄県, フルリモート",400万円〜900万円,"C#, PHP, Java, Python, Swift, React, TypeScript, Android, AWS, Kotlin, Flutter",0,1,0,0,0,400.0,900.0,650.0
+その他エンジニア,東京都,500万円〜600万円,"Python, MySQL, Jenkins, SQLServer",1,0,0,0,0,500.0,600.0,550.0
+PM,東京都,600万円〜960万円,"Java, Python, React, TypeScript, AWS, Vue.js, Spring, Rust",0,1,0,0,0,600.0,960.0,780.0
+PM,東京都,600万円〜960万円,"Java, Python, React, TypeScript, AWS, Vue.js, Spring, Rust",0,1,0,0,0,600.0,960.0,780.0
+その他エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 青森県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, 滋賀県, 奈良県, 和歌山県, 鳥取県, 島根県, 岡山県, 広島県, 山口県, 徳島県, 香川県, 愛媛県, 高知県, 福岡県, 佐賀県, 長崎県, 熊本県, 大分県, 宮崎県, 鹿児島県, 沖縄県, フルリモート",780万円〜1180万円,"Python, Django, React, AWS, Docker, Fargate",0,1,0,1,0,780.0,1180.0,980.0
+その他エンジニア,"フルリモート, 海外",600万円〜1000万円,"SQL, Ruby, Python, Go, Node.js, React, TypeScript, AWS, Vue.js, Azure, GCP",1,1,0,0,0,600.0,1000.0,800.0
+システムエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",450万円〜840万円,"JavaScript, PHP, Java, COBOL, Python, Swift, Go, jQuery, React, TypeScript, AWS, Docker, MySQL, Vue.js, PostgreSQL, Kotlin, Spring, Angular, Salesforce, SAP",1,1,0,0,0,450.0,840.0,645.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",448万円〜650万円,"C, C++, Java, Python",0,0,0,0,0,448.0,650.0,549.0
+その他エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",322万円〜560万円,"C, C++, Python",0,0,0,0,0,322.0,560.0,441.0
+SRE,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 青森県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, 滋賀県, 奈良県, 和歌山県, 鳥取県, 島根県, 岡山県, 広島県, 山口県, 徳島県, 香川県, 愛媛県, 高知県, 福岡県, 佐賀県, 長崎県, 熊本県, 大分県, 宮崎県, 鹿児島県, 沖縄県, フルリモート",800万円〜1200万円,"Perl, Ruby, Java, Python, Scala, Go, React, AWS, Kubernetes, GCP, SRE",0,1,0,0,0,800.0,1200.0,1000.0
+Webエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 愛知県",300万円〜600万円,"Java, Python, Node.js, React, TypeScript, AWS, Kotlin, Azure, Spring",0,1,0,0,0,300.0,600.0,450.0
+その他エンジニア,東京都,700万円〜900万円,"JavaScript, PHP, Python, CakePHP, CodeIgniter, jQuery, AWS, Docker, MySQL, Laravel, Jenkins",1,1,0,0,0,700.0,900.0,800.0
+開発エンジニア,東京都,380万円〜650万円,"Python, AWS, MySQL, Laravel, Vue.js, GCP",1,1,0,0,0,380.0,650.0,515.0
+機械学習エンジニア,東京都,400万円〜550万円,Python,0,0,0,0,0,400.0,550.0,475.0
+セキュリティエンジニア,フルリモート,700万円〜1300万円,"Python, AWS, Azure, PowerShell, GCP",0,1,0,0,1,700.0,1300.0,1000.0
+クラウドエンジニア,東京都,300万円〜500万円,"PHP, Java, Python, AWS",0,1,0,0,0,300.0,500.0,400.0
+開発エンジニア,福岡県,540万円〜840万円,"Ruby, Java, Python, Swift, Go, Ruby on Rails, Node.js, React, AWS, MySQL, Vue.js, PostgreSQL, Azure, Oracle, Spring, GCP, Express, Flutter",1,1,0,0,0,540.0,840.0,690.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",400万円〜1100万円,"C#, C, C++, Objective-C, JavaScript, VBA, PHP, Ruby, Java, Python, Swift, Go, Django, Unity, React, TypeScript, AWS, Docker, MySQL, Laravel, Vue.js, PostgreSQL, Kotlin, Apache, Azure, Kubernetes, Oracle, Spring, Rust, GCP, React Native, Xamarin, Cordova, Flutter",1,1,0,1,0,400.0,1100.0,750.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 青森県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, 滋賀県, 奈良県, 和歌山県, 鳥取県, 島根県, 岡山県, 広島県, 山口県, 徳島県, 香川県, 愛媛県, 高知県, 福岡県, 佐賀県, 長崎県, 熊本県, 大分県, 宮崎県, 鹿児島県, 沖縄県, フルリモート",420万円〜840万円,"JavaScript, PHP, Java, Python, Swift, Go, React, TypeScript, iOS, Android, AWS, Docker, Vue.js, PostgreSQL, Kotlin, Spring, Redux, Flutter",1,1,0,0,0,420.0,840.0,630.0
+バックエンドエンジニア,"東京都, 大阪府, 愛知県",700万円〜1000万円,"SQL, Ruby, Java, Python, Go, Django, React, AWS, MySQL, GCP, Flask, DDD, SRE",1,1,0,1,0,700.0,1000.0,850.0
+Webエンジニア,福岡県,500万円〜700万円,"JavaScript, Ruby, Python, Ruby on Rails, React, AWS, Docker, Vue.js, PostgreSQL, Lambda",1,1,0,0,0,500.0,700.0,600.0
+その他エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 茨城県, 栃木県, 群馬県, フルリモート",350万円〜1200万円,"C#, C, C++, JavaScript, PHP, Ruby, Java, COBOL, Python, Swift, Go, Dart, Ruby on Rails, React, TypeScript, AWS, MySQL, Laravel, Golang, Kotlin, Azure, Firebase, Salesforce, SAP",1,1,0,0,0,350.0,1200.0,775.0
+その他エンジニア,東京都,550万円〜1000万円,"Python, AWS, Azure, PowerShell",0,1,0,0,1,550.0,1000.0,775.0
+Webエンジニア,"東京都, フルリモート",600万円〜1000万円,"Python, Go, TypeScript, AWS, PostgreSQL, Rust, GCP, Redis, NodeJS",1,1,0,0,0,600.0,1000.0,800.0
+バックエンドエンジニア,"東京都, 神奈川県, 埼玉県",500万円〜700万円,"C#, JavaScript, ASP, ASP.NET, Java, Python, Play Framework, Struts, Django, React, Docker, MySQL, PostgreSQL, Oracle, MongoDB, Spring, Flask, MariaDB",1,0,0,1,0,500.0,700.0,600.0
+バックエンドエンジニア,愛知県,350万円〜700万円,"C, PHP, Java, Python, React, AngularJS, MySQL, IoT, Oracle, Angular, Salesforce, VR",1,0,0,0,0,350.0,700.0,525.0
+PM,フルリモート,700万円〜1000万円,"JavaScript, Ruby, Ruby on Rails, React, TypeScript, AWS, Python3",0,1,0,0,0,700.0,1000.0,850.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",400万円〜600万円,"C#, C, JavaScript, PHP, Java, Python, AWS, MySQL, Vue.js, PostgreSQL, Lambda, Oracle, Spring, SQLServer",1,1,0,0,0,400.0,600.0,500.0
+その他エンジニア,東京都,500万円〜729万円,"Python, Zabbix",0,0,0,0,0,500.0,729.0,614.5
+PM,大阪府,390万円〜800万円,"C#, JavaScript, Python, MySQL",1,0,0,0,0,390.0,800.0,595.0
+その他エンジニア,東京都,700万円〜1000万円,"C#, JavaScript, Java, Python, Swift, Go, React, iOS, Android, AWS, Docker, MySQL, Vue.js, PostgreSQL, Kotlin",1,1,0,0,0,700.0,1000.0,850.0
+PM,"東京都, 神奈川県, 埼玉県, 大阪府, フルリモート",550万円〜800万円,"C#, C, C++, JavaScript, PHP, Ruby, Java, Python, Swift, Go, R, Ruby on Rails, iOS, Android, AWS, Kotlin",0,1,0,0,0,550.0,800.0,675.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",400万円〜900万円,"C#, C, C++, JavaScript, PHP, Ruby, Java, Python, Go, Ruby on Rails, Django, React, TypeScript, iOS, Android, AWS, Docker, Laravel, Vue.js, Heroku, Azure, Oracle, Spring, Angular, GCP, Flask",0,1,0,1,0,400.0,900.0,650.0
+バックエンドエンジニア,"東京都, 北海道",578万円〜700万円,"Python, AWS, Golang",0,1,0,0,0,578.0,700.0,639.0
+その他エンジニア,フルリモート,600万円〜900万円,"C#, C, C++, JavaScript, PHP, Java, Python, React, MySQL",1,0,0,0,0,600.0,900.0,750.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, フルリモート",420万円〜1000万円,"C#, JavaScript, PHP, Java, Python, jQuery, React, AngularJS, TypeScript, Docker, MySQL, Laravel, Vue.js, Oracle, MongoDB, Spring, Redis",1,0,0,0,0,420.0,1000.0,710.0
+その他エンジニア,茨城県,700万円〜,"Python, Firebase, Google Cloud Platform, Flutter",0,0,0,0,0,,,
+データエンジニア,東京都,400万円〜600万円,"SQL, Python",1,0,0,0,0,400.0,600.0,500.0
+開発エンジニア,大阪府,500万円〜1000万円,"JavaScript, PHP, Java, Python3, Salesforce",0,0,0,0,0,500.0,1000.0,750.0
+Pythonエンジニア,東京都,504万円〜900万円,"Python, AWS",0,1,0,0,0,504.0,900.0,702.0
+開発エンジニア,東京都,600万円〜1200万円,Python,0,0,0,0,0,600.0,1200.0,900.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 北海道, 宮城県, 茨城県, 栃木県, 群馬県, 福岡県, フルリモート",450万円〜900万円,"C#, PHP, Ruby, Java, Python, Swift, Go, React, TypeScript, Kotlin, Oracle, Spring, MariaDB",0,0,0,0,0,450.0,900.0,675.0
+フロントエンドエンジニア,東京都,700万円〜1100万円,"Ruby, Python, Go, Ruby on Rails, React, TypeScript, Angular",0,0,0,0,0,700.0,1100.0,900.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 青森県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, 滋賀県, 奈良県, 和歌山県, 鳥取県, 島根県, 岡山県, 広島県, 山口県, 徳島県, 香川県, 愛媛県, 高知県, 福岡県, 佐賀県, 長崎県, 熊本県, 大分県, 宮崎県, 鹿児島県, 沖縄県",400万円〜700万円,"C#, JavaScript, PHP, Ruby, Java, Python, Swift, React, Laravel, Vue.js, Kotlin",0,0,0,0,0,400.0,700.0,550.0
+その他エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 茨城県, 栃木県, 群馬県",400万円〜900万円,"C#, C, C++, ASP, ASP.NET, SQL, PHP, Ruby, Java, XML, COBOL, PL/1, RPG, Python, Struts, MySQL, PostgreSQL, Oracle, Spring",1,0,0,0,0,400.0,900.0,650.0
+データアナリスト,フルリモート,500万円〜700万円,"SQL, Python, R",1,0,0,0,0,500.0,700.0,600.0
+バックエンドエンジニア,"大阪府, 兵庫県, 京都府, 滋賀県, 奈良県, 和歌山県",512万円〜743万円,"SQL, Ruby, Java, Python, Go, AWS, GCP, Redis",1,1,0,0,0,512.0,743.0,627.5
+データエンジニア,フルリモート,800万円〜1200万円,"SQL, Python, Hadoop, AWS, Azure, Spark",1,1,0,0,0,800.0,1200.0,1000.0
+ソフトウェアエンジニア,東京都,450万円〜900万円,"JavaScript, Java, Python, jQuery, Vue.js, Kotlin, IoT, Spring",0,0,0,0,0,450.0,900.0,675.0
+SRE,東京都,600万円〜1200万円,"Ruby, Python, Ruby on Rails, TypeScript, AWS, MySQL, Lambda, Angular, GCP, Fargate, SRE",1,1,0,0,0,600.0,1200.0,900.0
+バックエンドエンジニア,"東京都, フルリモート",400万円〜800万円,"PHP, Ruby, Java, Python, Node.js, TypeScript, AWS, Docker, IoT, Lambda",0,1,0,0,0,400.0,800.0,600.0
+ソフトウェアエンジニア,東京都,500万円〜750万円,"JavaScript, PHP, Python, React, TypeScript, AWS, MySQL, Laravel, Vue.js, Nginx, Lambda, MariaDB",1,1,0,0,0,500.0,750.0,625.0
+PM,東京都,600万円〜1000万円,"JavaScript, PHP, Java, Python, Swift, AWS, Docker, Kotlin, Jenkins, Zabbix, Nagios",0,1,0,0,0,600.0,1000.0,800.0
+その他エンジニア,東京都,500万円〜700万円,"VBA, Python, AWS, Salesforce",0,1,0,0,0,500.0,700.0,600.0
+その他エンジニア,東京都,500万円〜700万円,"VBA, Python, AWS, Salesforce",0,1,0,0,0,500.0,700.0,600.0
+システムエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",400万円〜800万円,"C#, Objective-C, JavaScript, SQL, PHP, Ruby, Java, Python, Swift, CakePHP, Django, React, TypeScript, iOS, MySQL, Golang, Vue.js, PostgreSQL, Kotlin, Oracle, MongoDB",1,0,0,1,0,400.0,800.0,600.0
+Webエンジニア,東京都,700万円〜900万円,"C#, C, C++, JavaScript, SQL, Java, Python, React, AWS, PostgreSQL, Azure, Oracle, Spring",1,1,0,0,0,700.0,900.0,800.0
+Pythonエンジニア,東京都,660万円〜1200万円,"JavaScript, Python, React, TypeScript, AWS, GCP",0,1,0,0,0,660.0,1200.0,930.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",400万円〜700万円,"C, JavaScript, PHP, Ruby, Java, COBOL, Python, Go, Ruby on Rails, AWS, Laravel, Jenkins, Angular, NodeJS",0,1,0,0,0,400.0,700.0,550.0
+フロントエンドエンジニア,"東京都, 神奈川県",350万円〜700万円,"C, C++, PHP, Ruby, Java, Python, Swift, Go, React, TypeScript, Vue.js, Kotlin, Angular",0,0,0,0,0,350.0,700.0,525.0
+システムエンジニア,東京都,550万円〜800万円,"C#, JavaScript, Ruby, Java, Python, Swift, Scala, Go, TypeScript, Kotlin",0,0,0,0,0,550.0,800.0,675.0
+AIエンジニア,東京都,500万円〜1000万円,"C, Python, AWS, Lambda, GCP, Zabbix",0,1,0,0,0,500.0,1000.0,750.0
+その他エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 茨城県, 栃木県, 群馬県, フルリモート",813万円〜2000万円,"JavaScript, SQL, Ruby, Java, Python, R",1,0,0,0,0,813.0,2000.0,1406.5
+Webエンジニア,愛知県,400万円〜700万円,"C#, JavaScript, Java, Python, Swift, Django, React, TypeScript, AWS, Vue.js, PostgreSQL, Kotlin, Azure, Lambda, SQLServer, Flutter",1,1,0,1,0,400.0,700.0,550.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",500万円〜800万円,"C#, C, C++, Objective-C, JavaScript, VBA, Ruby, Java, Python, Swift, Struts, CakePHP, Ruby on Rails, Django, Node.js, React, AngularJS, TypeScript, AWS, Vue.js, Spring, Angular, React Native",0,1,0,1,0,500.0,800.0,650.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 茨城県, 栃木県, 群馬県, フルリモート",500万円〜830万円,"C#, C, C++, Objective-C, JavaScript, VBA, Delphi, Perl, PHP, Ruby, Java, COBOL, Python",0,0,0,0,0,500.0,830.0,665.0
+フロントエンドエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",400万円〜700万円,"C#, JavaScript, PHP, Ruby, Python, Go, Ruby on Rails, React, TypeScript, AWS, Docker, PostgreSQL, Azure, Lambda, Kubernetes, Jenkins, Flask",1,1,0,1,0,400.0,700.0,550.0
+AIエンジニア,東京都,500万円〜800万円,"Python, Node.js, React, TypeScript, AWS, Docker, PostgreSQL, Express",1,1,0,0,0,500.0,800.0,650.0
+開発エンジニア,大阪府,450万円〜,"C#, JavaScript, PHP, Java, Python",0,0,0,0,0,,,
+PM,東京都,700万円〜1100万円,"JavaScript, Python, AWS, Azure, GCP",0,1,0,0,0,700.0,1100.0,900.0
+クラウドエンジニア,"東京都, 大阪府",400万円〜600万円,"PHP, Python, AWS, Docker, MySQL, Laravel, Vue.js, SRE",1,1,0,0,0,400.0,600.0,500.0
+クラウドエンジニア,"東京都, 大阪府",400万円〜600万円,"PHP, Python, AWS, Docker, MySQL, Laravel, Vue.js, SRE",1,1,0,0,0,400.0,600.0,500.0
+データアナリスト,東京都,380万円〜550万円,"SQL, Python, R, AWS",1,1,0,0,0,380.0,550.0,465.0
+開発エンジニア,東京都,400万円〜600万円,"JavaScript, ASP, PHP, Java, Python, AWS, MySQL, PostgreSQL, Oracle, Angular, Salesforce, SQLServer",1,1,0,0,0,400.0,600.0,500.0
+クラウドエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 愛知県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, フルリモート",500万円〜800万円,"C#, Java, Python, Node.js, AWS, MySQL, Oracle",1,1,0,0,0,500.0,800.0,650.0
+開発エンジニア,福井県,500万円〜800万円,"JavaScript, Ruby, Python, Go, R",0,0,0,0,0,500.0,800.0,650.0
+その他エンジニア,東京都,450万円〜700万円,"C#, PHP, Ruby, Java, Python, Go, jQuery, Node.js, React, AWS, MySQL, Vue.js, PostgreSQL, Apache, Azure, Spring, GCP",1,1,0,0,0,450.0,700.0,575.0
+その他エンジニア,東京都,420万円〜700万円,"Java, Python, AWS, GCP",0,1,0,0,0,420.0,700.0,560.0
+システムエンジニア,"東京都, 愛知県, 茨城県, 福井県",500万円〜900万円,"Python, ROS",0,0,0,0,0,500.0,900.0,700.0
+バックエンドエンジニア,"神奈川県, フルリモート",750万円〜1200万円,"Java, Python, React, MySQL, PostgreSQL, Oracle, Angular",1,0,0,0,0,750.0,1200.0,975.0
+データエンジニア,東京都,600万円〜1000万円,"SQL, Python, AWS, GCP",1,1,0,0,0,600.0,1000.0,800.0
+開発エンジニア,"東京都, 神奈川県",350万円〜800万円,"C#, C, JavaScript, PHP, Ruby, Java, Python, Swift, AWS, Kotlin, Azure, GCP",0,1,0,0,0,350.0,800.0,575.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",1000万円〜1200万円,"C#, C, C++, JavaScript, Delphi, SQL, Perl, PHP, Java, Python, Swift, Go, Dart, Struts, Django, jQuery, Node.js, React, TypeScript, iOS, Android, MySQL, Laravel, Vue.js, PostgreSQL, Kotlin, Oracle, MongoDB, Spring, Angular, Flask, Flutter",1,0,0,1,0,1000.0,1200.0,1100.0
+バックエンドエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",450万円〜700万円,"C#, Objective-C, JavaScript, PHP, Ruby, Java, Python, Swift, Go, jQuery, Unity, React, TypeScript, Vue.js, Kotlin, Angular, Flutter",0,0,0,0,0,450.0,700.0,575.0
+バックエンドエンジニア,東京都,500万円〜800万円,"C, C++, Java, Python, Scala, Go, TypeScript, AWS, Docker, MySQL, MongoDB, DDD",1,1,0,0,0,500.0,800.0,650.0
+フロントエンドエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",400万円〜600万円,"C, C++, JavaScript, VBA, SQL, PHP, Ruby, Java, Python, Struts, AWS, Golang, Spring",1,1,0,0,0,400.0,600.0,500.0
+データエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 茨城県, 栃木県, 群馬県",350万円〜450万円,"SQL, Python, AWS, Docker",1,1,0,0,0,350.0,450.0,400.0
+バックエンドエンジニア,東京都,450万円〜800万円,"Ruby, Python, AWS",0,1,0,0,0,450.0,800.0,625.0
+システムエンジニア,大阪府,450万円〜600万円,"C#, C, C++, JavaScript, Perl, PHP, Java, Python, PostgreSQL, IoT, Oracle, SQLServer",1,0,0,0,0,450.0,600.0,525.0
+開発エンジニア,福岡県,370万円〜720万円,"JavaScript, PHP, Ruby, Java, Python, Swift, Ruby on Rails, jQuery, Node.js, React, TypeScript, iOS, Android, AWS, Laravel, Vue.js, Kotlin, Spring, GCP, Nuxt.js, Flutter",0,1,0,0,0,370.0,720.0,545.0
+アプリケーションエンジニア,福岡県,430万円〜700万円,"JavaScript, Python, Django, React, AWS, Docker, PostgreSQL, Kubernetes, Fargate",1,1,0,1,0,430.0,700.0,565.0
+機械学習エンジニア,"東京都, フルリモート",600万円〜1000万円,"Python, AWS, Azure, GCP",0,1,0,0,0,600.0,1000.0,800.0
+その他エンジニア,東京都,700万円〜1000万円,"JavaScript, SQL, Ruby, Python, Scala, Go, Ruby on Rails, TypeScript, AWS, ReactJS, Jupyter, scikit-learn",1,1,1,0,0,700.0,1000.0,850.0
+フルスタックエンジニア,東京都,650万円〜900万円,"JavaScript, Python, Go, Django, Node.js, React, TypeScript, iOS, Android, AWS, Docker, MySQL, Electron, Redis, Fluentd",1,1,0,1,0,650.0,900.0,775.0
+その他エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 北海道, 茨城県, 栃木県, 群馬県, フルリモート",500万円〜1200万円,"JavaScript, PHP, Ruby, Java, Python, Go, Ruby on Rails, Django, React, TypeScript, AWS, MySQL, Laravel, Nginx, Apache, Azure, Oracle, MongoDB, Spring, Angular, Redis, SQLServer",1,1,0,1,0,500.0,1200.0,850.0
+SRE,東京都,450万円〜750万円,"Python, AWS, IoT, SRE",0,1,0,0,0,450.0,750.0,600.0
+PM,"東京都, 神奈川県, 千葉県",480万円〜600万円,"JavaScript, PHP, Ruby, Java, Python, Go, TypeScript, Docker, MySQL, Python3, Vue.js, Kotlin, NodeJS",1,0,0,0,0,480.0,600.0,540.0
+フルスタックエンジニア,フルリモート,420万円〜900万円,"JavaScript, PHP, Java, Python, Go, Node.js, React, TypeScript, AWS, Vue.js, Nuxt.js",0,1,0,0,0,420.0,900.0,660.0
+システムエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",500万円〜1080万円,"C#, C, C++, VBA, ASP, SQL, Perl, PHP, Java, Python, R, Django, MySQL, Laravel, PostgreSQL, Oracle",1,0,0,1,0,500.0,1080.0,790.0
+その他エンジニア,大阪府,350万円〜800万円,"C#, C, C++, JavaScript, SQL, Python, iOS, Docker, DeepLearning, PostgreSQL",1,0,0,0,0,350.0,800.0,575.0
+システムエンジニア,"東京都, 神奈川県",420万円〜960万円,"JavaScript, PHP, Ruby, Java, Python, Go",0,0,0,0,0,420.0,960.0,690.0
+その他エンジニア,東京都,400万円〜650万円,"SQL, Python",1,0,0,0,0,400.0,650.0,525.0
+システムエンジニア,東京都,450万円〜700万円,"C#, JavaScript, ASP, SQL, Python, Azure, SQLServer",1,0,0,0,0,450.0,700.0,575.0
+システムエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",360万円〜840万円,"C#, C, C++, JavaScript, PHP, Ruby, Java, Python, Swift, Go, TypeScript, Kotlin, IoT",0,0,0,0,0,360.0,840.0,600.0
+PM,東京都,600万円〜800万円,"JavaScript, PHP, Python, Go, React, TypeScript, AWS, MySQL, Laravel, Vue.js, Kotlin, Lambda, Spring, Redis",1,1,0,0,0,600.0,800.0,700.0
+その他エンジニア,"東京都, 大阪府, フルリモート",800万円〜1200万円,"PHP, Java, Node.js, React, TypeScript, AWS, Docker, MySQL, Python3, Laravel, Vue.js, TensorFlow, Azure, Lambda, MachineLearning, Kubernetes, Elasticsearch, Rust, Redis, Fluentd, Fargate",1,1,1,0,0,800.0,1200.0,1000.0
+その他エンジニア,"東京都, 神奈川県, 千葉県, 大阪府, 京都府, 愛知県, 北海道, 宮城県, 長野県, 広島県, 香川県, 福岡県, 沖縄県",450万円〜1000万円,"C#, C, JavaScript, PHP, Java, Python, Swift, TypeScript, iOS, Android, AWS, Kotlin, IoT, Azure, Oracle, Salesforce, IBM Cloud, SAP",0,1,0,0,0,450.0,1000.0,725.0
+開発エンジニア,東京都,470万円〜750万円,"JavaScript, Java, Python, Go, React, TypeScript, AWS, Docker, MySQL, PostgreSQL",1,1,0,0,0,470.0,750.0,610.0
+Webエンジニア,福岡県,400万円〜600万円,"JavaScript, PHP, Python, React, AWS, Docker, Laravel, Vue.js, PostgreSQL",1,1,0,0,0,400.0,600.0,500.0
+フルスタックエンジニア,東京都,800万円〜1500万円,"Python, Go, R, React, TypeScript, AWS, Docker, GCP, NodeJS, Flutter",0,1,0,0,0,800.0,1500.0,1150.0
+サーバーエンジニア,東京都,650万円〜900万円,"PHP, Python, iOS, Android, AWS, MySQL, Laravel, Azure, Lambda, GCP, Fargate",1,1,0,0,0,650.0,900.0,775.0
+開発エンジニア,"東京都, 大阪府, 福岡県",600万円〜900万円,"Python, React, AWS, Vue.js, Azure",0,1,0,0,0,600.0,900.0,750.0
+クラウドエンジニア,東京都,400万円〜650万円,"JavaScript, SQL, Python, Django, React, TypeScript, AWS, MySQL, TensorFlow, OpenCV, Keras, GCP, Flask, VR",1,1,1,1,0,400.0,650.0,525.0
+その他エンジニア,東京都,575万円〜800万円,"C#, JavaScript, PHP, Ruby, Java, Python, Go, Ruby on Rails, Node.js, React, AWS, Docker, MySQL, Python3, Vue.js, HTML5, Nginx, Heroku, PostgreSQL, CSS3, Jenkins, Google Cloud Platform, MongoDB, Angular, React Native, Redis, Salesforce",1,1,0,0,0,575.0,800.0,687.5
+Webエンジニア,フルリモート,400万円〜600万円,"Python, Go, React, Vue.js",0,0,0,0,0,400.0,600.0,500.0
+PM,京都府,550万円〜600万円,"C#, PHP, Ruby, Java, Python, Swift, Go, Dart, Unity, React, TypeScript, iOS, Android, AWS, Laravel, Golang, Kotlin, Lambda, Spring, Flutter",0,1,0,0,0,550.0,600.0,575.0
+バックエンドエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, フルリモート",400万円〜,"C#, JavaScript, SQL, PHP, Java, Python, Go, Django, React, AWS, Docker, MySQL, Laravel, Vue.js, PostgreSQL, IoT, Azure, Kubernetes, Jenkins, Oracle, MongoDB, Spring, GCP, Redis",1,1,0,1,0,,,
+システムエンジニア,"大阪府, 兵庫県, 京都府",450万円〜780万円,"JavaScript, Java, Python, Node.js, AWS, Docker, Vue.js, PostgreSQL, IoT, Oracle",1,1,0,0,0,450.0,780.0,615.0
+バックエンドエンジニア,東京都,400万円〜600万円,"C, SQL, PHP, Java, Python, Go, Django, TypeScript, AWS, Lambda, GCP, Flask, SRE",1,1,0,1,0,400.0,600.0,500.0
+データエンジニア,東京都,600万円〜1200万円,"C, JavaScript, SQL, Java, Python, Scala, Hadoop, TypeScript, iOS, Android, AWS, Docker, HTML5, Nginx, Kubernetes, CSS3, Jenkins, Elasticsearch, Spring, Angular, GCP, Redis, Spark, HBase",1,1,0,0,0,600.0,1200.0,900.0
+システムエンジニア,大阪府,,"C#, C, C++, JavaScript, ASP, ASP.NET, SQL, Perl, PHP, Ruby, Java, COBOL, Python, Struts, CakePHP, Ruby on Rails, jQuery, Node.js, Android, MySQL, PostgreSQL, Azure, Oracle, Spring, SQLServer",1,0,0,0,0,,,
+ソフトウェアエンジニア,"東京都, フルリモート",500万円〜1300万円,"JavaScript, Java, Python, Node.js, TypeScript, iOS, Android, AWS, Vue.js, Azure, GCP, Flutter",0,1,0,0,0,500.0,1300.0,900.0
+セキュリティエンジニア,愛知県,350万円〜800万円,"C, C++, Java, Python, AWS, IoT, Splunk",0,1,0,0,0,350.0,800.0,575.0
+その他エンジニア,東京都,800万円〜1200万円,"C, C++, Python",0,0,0,0,0,800.0,1200.0,1000.0
+セキュリティエンジニア,愛知県,350万円〜800万円,"C, C++, Java, Python, AWS, IoT, Splunk",0,1,0,0,0,350.0,800.0,575.0
+フロントエンドエンジニア,"東京都, フルリモート",547万円〜,"C, C++, JavaScript, PHP, Python, React, TypeScript, AWS, MySQL, Laravel, Vue.js, PostgreSQL, Rust, React Native",1,1,0,0,0,,,
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",350万円〜700万円,"JavaScript, Ruby, Java, Python, AWS",0,1,0,0,0,350.0,700.0,525.0
+開発エンジニア,東京都,350万円〜700万円,"C#, C, JavaScript, ASP, ASP.NET, SQL, Java, Python, Struts, React, TypeScript, AWS, MySQL, IoT, Oracle, Spring, SAP",1,1,0,0,0,350.0,700.0,525.0
+バックエンドエンジニア,東京都,480万円〜1000万円,"JavaScript, PHP, Python, TypeScript, WordPress, HTML5, Elasticsearch, Flask, MariaDB",0,0,0,1,0,480.0,1000.0,740.0
+開発エンジニア,"東京都, 大阪府",552万円〜1000万円,"C#, SQL, PHP, Ruby, Java, Python, TypeScript, Laravel, Vue.js, Oracle",1,0,0,0,0,552.0,1000.0,776.0
+開発エンジニア,東京都,500万円〜1000万円,"Python, Go, React, AWS, TensorFlow, Kubernetes, Jupyter, GCP",0,1,1,0,0,500.0,1000.0,750.0
+データアナリスト,東京都,450万円〜700万円,"SQL, Python",1,0,0,0,0,450.0,700.0,575.0
+ソフトウェアエンジニア,東京都,800万円〜1600万円,"C, C++, JavaScript, Java, Python, Node.js, React, TypeScript, AWS, Docker, MySQL, Golang, Kotlin, Apache, Azure, Kubernetes, Elasticsearch, GCP, Redis",1,1,0,0,0,800.0,1600.0,1200.0
+システムエンジニア,東京都,500万円〜800万円,"SQL, Python, AWS, Salesforce",1,1,0,0,0,500.0,800.0,650.0
+システムエンジニア,東京都,500万円〜800万円,"SQL, Python, AWS, Salesforce",1,1,0,0,0,500.0,800.0,650.0
+PM,"東京都, 京都府",650万円〜1200万円,"Python, Swift",0,0,0,0,0,650.0,1200.0,925.0
+システムエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県, 茨城県",350万円〜600万円,"C, JavaScript, PHP, Ruby, Java, Python, Swift",0,0,0,0,0,350.0,600.0,475.0
+Pythonエンジニア,東京都,480万円〜550万円,"Python, AWS, Docker, MySQL, PostgreSQL, IoT, Azure, Lambda, Flask, Nuxt.js, Fargate",1,1,0,1,0,480.0,550.0,515.0
+データサイエンティスト,新潟県,520万円〜,"SQL, Python",1,0,0,0,0,,,
+システムエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",420万円〜720万円,"C#, JavaScript, SQL, Perl, PHP, Ruby, Java, Python, React, TypeScript, AWS, Kotlin, IoT, Azure, GCP",1,1,0,0,0,420.0,720.0,570.0
+システムエンジニア,"東京都, 千葉県, フルリモート",420万円〜480万円,"C, C++, JavaScript, Java, Python",0,0,0,0,0,420.0,480.0,450.0
+バックエンドエンジニア,東京都,500万円〜1200万円,"Ruby, Java, Python, Ruby on Rails, AWS, Docker, Kotlin, GCP",0,1,0,0,0,500.0,1200.0,850.0
+システムエンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",550万円〜700万円,"C#, JavaScript, SQL, PHP, Ruby, Java, Python, jQuery, React, TypeScript, AWS, Docker, MySQL, Laravel, Vue.js, PostgreSQL, Jenkins, Oracle, Spring",1,1,0,0,0,550.0,700.0,625.0
+バックエンドエンジニア,北海道,500万円〜900万円,"Python, Django, React, TypeScript, AWS, Docker, MySQL, IoT, Angular",1,1,0,1,0,500.0,900.0,700.0
+バックエンドエンジニア,北海道,500万円〜900万円,"Python, Django, React, TypeScript, AWS, Docker, MySQL, IoT, Angular",1,1,0,1,0,500.0,900.0,700.0
+バックエンドエンジニア,神奈川県,480万円〜1080万円,"Java, Python, Go, React, TypeScript, AWS, Golang, Kubernetes, Spring, GCP, Redux",0,1,0,0,0,480.0,1080.0,780.0
+開発エンジニア,東京都,450万円〜650万円,"C#, JavaScript, PHP, Java, Python, AWS, Docker, MySQL, PostgreSQL, Azure, Lambda, Spring",1,1,0,0,0,450.0,650.0,550.0
+バックエンドエンジニア,大阪府,350万円〜650万円,"PHP, Ruby, Python, Symfony, AWS, Laravel",0,1,0,0,0,350.0,650.0,500.0
+バックエンドエンジニア,フルリモート,550万円〜1100万円,"PHP, Ruby, Java, Python, React, iOS, Android, Golang",0,0,0,0,0,550.0,1100.0,825.0
+バックエンドエンジニア,東京都,360万円〜500万円,"JavaScript, PHP, Java, Python, Scala, Struts, Symfony, React, MySQL, Laravel, Vue.js, IoT, Oracle, Spring, Angular",1,0,0,0,0,360.0,500.0,430.0
+開発エンジニア,"東京都, 神奈川県, 千葉県, 埼玉県",350万円〜500万円,"Java, Python, AWS",0,1,0,0,0,350.0,500.0,425.0
+開発エンジニア,"東京都, 大阪府, フルリモート",450万円〜700万円,"PHP, Ruby, Java, Python, Android, AWS",0,1,0,0,0,450.0,700.0,575.0
+開発エンジニア,"東京都, 大阪府, フルリモート",450万円〜700万円,"PHP, Ruby, Java, Python, Android, AWS",0,1,0,0,0,450.0,700.0,575.0
+PM,東京都,500万円〜1000万円,"JavaScript, SQL, PHP, Java, Python, Go, jQuery, Node.js, React, AWS, MySQL, PostgreSQL, Lambda, Angular, GCP, Fargate",1,1,0,0,0,500.0,1000.0,750.0
+PM,東京都,600万円〜1000万円,"C#, Objective-C, PHP, Ruby, Java, Python, R, Dart, CakePHP, Ruby on Rails, Django, React, AngularJS, TypeScript, iOS, Android, AWS, MySQL, Laravel, Vue.js, PostgreSQL, Azure, Oracle, Spring, GCP, Flask",1,1,0,1,0,600.0,1000.0,800.0
+PM,"東京都, フルリモート",700万円〜1000万円,"SQL, Python, Swift, React, TypeScript, iOS, Android, AWS, Kotlin, React Native",1,1,0,0,0,700.0,1000.0,850.0
+開発エンジニア,東京都,350万円〜,"C#, JavaScript, SQL, PHP, Ruby, Java, Python, Dart, Ruby on Rails, jQuery, Node.js, React, Hadoop, AWS, Docker, MySQL, Laravel, Apache, Azure, Oracle, Spring, Redis, Salesforce, Express, Flutter",1,1,0,0,0,,,
+SRE,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 青森県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, 滋賀県, 奈良県, 和歌山県, 鳥取県, 島根県, 岡山県, 広島県, 山口県, 徳島県, 香川県, 愛媛県, 高知県, 福岡県, 佐賀県, 長崎県, 熊本県, 大分県, 宮崎県, 鹿児島県, 沖縄県, フルリモート",550万円〜1200万円,"Ruby, Python, Ruby on Rails, Django, Node.js, React, TypeScript, AWS, Docker, MySQL, Golang, PostgreSQL, Azure, Kubernetes, Jenkins, GCP, Fargate, SRE",1,1,0,1,0,550.0,1200.0,875.0
+開発エンジニア,宮城県,450万円〜530万円,"Objective-C, JavaScript, PHP, Java, Python, Swift, Node.js, iOS, Android, Kotlin, Flutter",0,0,0,0,0,450.0,530.0,490.0
+SRE,"東京都, 神奈川県, 千葉県, 埼玉県, 大阪府, 兵庫県, 京都府, 愛知県, 北海道, 青森県, 岩手県, 宮城県, 秋田県, 山形県, 福島県, 茨城県, 栃木県, 群馬県, 新潟県, 富山県, 石川県, 福井県, 山梨県, 長野県, 岐阜県, 静岡県, 三重県, 滋賀県, 奈良県, 和歌山県, 鳥取県, 島根県, 岡山県, 広島県, 山口県, 徳島県, 香川県, 愛媛県, 高知県, 福岡県, 佐賀県, 長崎県, 熊本県, 大分県, 宮崎県, 鹿児島県, 沖縄県, フルリモート",550万円〜1200万円,"Ruby, Python, Ruby on Rails, Django, Node.js, React, TypeScript, AWS, Docker, MySQL, Golang, PostgreSQL, Azure, Kubernetes, Jenkins, GCP, Fargate, SRE",1,1,0,1,0,550.0,1200.0,875.0
+データアナリスト,"東京都, 神奈川県, 千葉県, 埼玉県, 茨城県, 栃木県, 群馬県, フルリモート",500万円〜1080万円,"SQL, Python, R, Hadoop",1,0,0,0,0,500.0,1080.0,790.0
+Webエンジニア,京都府,460万円〜650万円,"JavaScript, PHP, Python, jQuery, AWS, Laravel, Vue.js, HTML5",0,1,0,0,0,460.0,650.0,555.0
+開発エンジニア,大阪府,420万円〜800万円,"C, C++, Java, Python, Go, AWS, Docker, MySQL, Kubernetes, Jenkins, Oracle, MongoDB, Rust, Redis, Fluentd",1,1,0,0,0,420.0,800.0,610.0
