@@ -1,12 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
-import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
@@ -27,7 +25,7 @@ def extract_job_cards(soup):
             job_title_tag = card.find('div', class_='css-9rsp2i') 
             job_title = job_title_tag.text.strip() if job_title_tag else ''
 
-            # 勤務地（もしあれば）
+            # 勤務地
             location_tag = card.find('div', class_='css-kc5p0c') 
             location = location_tag.text.strip() if location_tag else ''
 
@@ -55,16 +53,14 @@ def extract_job_cards(soup):
 
 def get_jobs_with_selenium(query="python", pages=77):
 
-    # ヘッドレスオプション
     options = webdriver.ChromeOptions()
     options.add_argument("--headless")
     options.add_argument("--no-sandbox")
 
-    # Chrome起動
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-    # Greenの検索ページを開く
-    driver.get("https://www.green-japan.com/search")
+    # 検索ページを開く
+    driver.get("URL")
 
     # 検索ボックスに"Python"を入力してEnter
     # ② 検索ボックスを取得（←セレクタ変更）
@@ -100,7 +96,7 @@ def get_jobs_with_selenium(query="python", pages=77):
             if next_svg:
                 next_a_tag = next_svg.find_parent("a")
                 if next_a_tag and next_a_tag.has_attr("href"):
-                    next_url = "https://www.green-japan.com" + next_a_tag["href"]
+                    next_url = "URL" + next_a_tag["href"]
                     driver.get(next_url)
                     page += 1
                     time.sleep(3)
@@ -123,9 +119,7 @@ def get_jobs_with_selenium(query="python", pages=77):
     return all_jobs
 
 
-# スクレイピング実行
-jobs = get_jobs_with_selenium(query="python", pages=77)
-# DataFrameに変換
-df = pd.DataFrame(jobs)
-# CSVとして保存
-df.to_csv("green_python_jobs.csv", index=False, encoding="utf-8-sig")
+if __name__ == "__main__":
+    jobs = get_jobs_with_selenium(query="python", pages=77)
+    df = pd.DataFrame(jobs)
+    df.to_csv("python_jobs.csv", index=False, encoding="utf-8-sig")
